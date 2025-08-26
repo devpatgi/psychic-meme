@@ -2,12 +2,16 @@
 
 Placeholder for the `psychic-meme` project, which does not yet exist.
 
-## Project History
-
-Github suggested that this project name was available, and it was too cool too ignore. What should we do with it? Send your ideas to dev.purkayastha@gmail.com
-
 ## FAQ
 
 *1. What is the psychic-meme project?*
 
 It does not yet exist.
+
+*2. What is here instead?*
+
+Currently, miscellaneous side-projects that I'd like visible in a public repository. Maybe that's what `psychic-meme` was always about.
+
+*4. What if I have a better idea?*
+
+Let me know at `dev.purkayastha@gmail.com`.
